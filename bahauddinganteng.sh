@@ -15,6 +15,8 @@ echo
 echo $red"welcome"
 sleep 1
 echo
+clear
+echo
 
 echo $pur"==================="$cy" ============================="
 echo $i"Ôûê"$pu"  AUTHOR    :  rahmadyxz  "$i"               Ôûê"
