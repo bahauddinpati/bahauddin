@@ -9,6 +9,12 @@ ku='\033[33;1m' #kuning
 echo
 echo
 python2 loginku.py
+echo
+clear
+echo
+echo $red"welcome"
+sleep 1
+echo
 
 echo $pur"==================="$cy" ============================="
 echo $i"Ôûê"$pu"  AUTHOR    :  rahmadyxz  "$i"               Ôûê"
