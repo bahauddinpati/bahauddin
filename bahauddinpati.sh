@@ -69,7 +69,8 @@ echo $i"┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 echo
 echo $me"┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉"
 echo &ku"PERINGATAN...JANGAN DI SALAH GUNAKAN DG BIJAK"
-echo $me"┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉"
+
+
 echo $pur"❬✔❭Bahauddin❬✔❭"$pur"PATI CYBER TEAM"$pur"]"
 read -p"  ╼╼╼➤" pil
 
