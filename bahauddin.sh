@@ -65,9 +65,9 @@ pkg install wget -y
 pkg install curl -y
 pkg install git -y
 pkg install openssh -y
-cd $HOME
+
 wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
-chmod +x metasploit.sh
+
 bash metasploit.sh
 msfconsole
 fi
